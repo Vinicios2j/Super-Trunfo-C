@@ -42,5 +42,5 @@ Este projeto foi desenvolvido como parte de um desafio individual da disciplina 
 
 ---
 
-Desenvolvido por \[Seu Nome Aqui] para a disciplina de Lógica de Programação - 2025.
+Desenvolvido por \José Vinicios para a disciplina de Lógica de Programação - 2025.
 4
